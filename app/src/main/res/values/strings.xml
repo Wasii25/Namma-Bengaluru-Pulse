@@ -1,3 +1,83 @@
 <resources>
     <string name="app_name">Namma Bengaluru Pulse</string>
+        <!-- Coffee Shops -->
+        <string name="third_wave">Third Wave Coffee Roasters</string>
+        <string name="third_wave_desc">Indie-style café popular with remote workers.</string>
+
+        <string name="matteo">Matteo Coffea</string>
+        <string name="matteo_desc">Great ambiance near Church Street.</string>
+
+        <string name="hatti_kaapi">Hatti Kaapi</string>
+        <string name="hatti_kaapi_desc">Authentic South Indian filter coffee.</string>
+
+        <string name="dyu">DYU Art Café</string>
+        <string name="dyu_desc">Quaint courtyard café with art displays.</string>
+
+        <string name="blue_tokai">Blue Tokai Coffee Roasters</string>
+        <string name="blue_tokai_desc">Modern vibe with fresh brews.</string>
+
+        <!-- Restaurants -->
+        <string name="toit">Toit</string>
+        <string name="toit_desc">Craft brewery with Indian and continental dishes.</string>
+
+        <string name="mtr">MTR (Mavalli Tiffin Room)</string>
+        <string name="mtr_desc">Iconic vegetarian South Indian meals.</string>
+
+        <string name="truffles">Truffles</string>
+        <string name="truffles_desc">Burgers and pasta in a college-friendly setting.</string>
+
+        <string name="koshys">Koshy’s</string>
+        <string name="koshys_desc">Colonial-style restaurant with old-world charm.</string>
+
+        <string name="black_rabbit">The Black Rabbit</string>
+        <string name="black_rabbit_desc">Modern bar with fusion food and live music.</string>
+
+        <!-- Parks -->
+        <string name="cubbon_park">Cubbon Park</string>
+        <string name="cubbon_park_desc">Lush greenery in the heart of the city.</string>
+
+        <string name="lalbagh">Lalbagh Botanical Garden</string>
+        <string name="lalbagh_desc">Historic garden with a glasshouse and rare plants.</string>
+
+        <string name="jp_park">JP Park</string>
+        <string name="jp_park_desc">Lake, walking paths, and an open gym.</string>
+
+        <string name="bugle_rock">Bugle Rock Park</string>
+        <string name="bugle_rock_desc">Park around ancient rock formations.</string>
+
+        <string name="bannerghatta">Bannerghatta Biological Park</string>
+        <string name="bannerghatta_desc">Zoo and safari park on the city outskirts.</string>
+
+        <!-- Kid-Friendly -->
+        <string name="bal_bhavan">Jawahar Bal Bhavan</string>
+        <string name="bal_bhavan_desc">Children’s park with rides and toy train.</string>
+
+        <string name="snow_city">Snow City</string>
+        <string name="snow_city_desc">Indoor snow-themed amusement park.</string>
+
+        <string name="film_city">Innovative Film City</string>
+        <string name="film_city_desc">Theme park with wax museum and cartoon city.</string>
+
+        <string name="fun_world">Fun World</string>
+        <string name="fun_world_desc">Amusement and water park combo.</string>
+
+        <string name="science_museum">Science Museum (Visvesvaraya)</string>
+        <string name="science_museum_desc">Interactive science exhibits and 3D shows.</string>
+
+        <!-- Shopping -->
+        <string name="phoenix">Phoenix MarketCity</string>
+        <string name="phoenix_desc">Huge mall with stores, food, and entertainment.</string>
+
+        <string name="ub_city">UB City Mall</string>
+        <string name="ub_city_desc">Luxury mall with top fashion brands.</string>
+
+        <string name="orion">Orion Mall</string>
+        <string name="orion_desc">Popular mall near Rajajinagar with lakeside view.</string>
+
+        <string name="mantri">Mantri Square</string>
+        <string name="mantri_desc">One of the largest malls in South India.</string>
+
+        <string name="commercial_street">Commercial Street</string>
+        <string name="commercial_street_desc">Street market for budget-friendly fashion.</string>
+
 </resources>
