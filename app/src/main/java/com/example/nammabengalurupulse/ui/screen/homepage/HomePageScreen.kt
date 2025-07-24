@@ -66,7 +66,7 @@ fun HomePageScreen(
 
 @Composable
 fun Intro(modifier: Modifier = Modifier) {
-    Column(modifier = modifier.fillMaxSize()) {
+    Column(modifier = Modifier.fillMaxSize()) {
         Image(
             painter = painterResource(R.drawable.bengaluru),
             contentDescription = stringResource(R.string.City_image_desc),

@@ -9,6 +9,7 @@ import androidx.compose.foundation.layout.padding
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
+import androidx.navigation.compose.rememberNavController
 import com.example.nammabengalurupulse.R
 import com.example.nammabengalurupulse.ui.components.CategoryCard
 import com.example.nammabengalurupulse.ui.components.topbar
@@ -18,6 +19,7 @@ fun CoffeeCategoryScreen(
     @StringRes categoryTitle: Int,
     modifier: Modifier = Modifier,
 ) {
+    val navController =
     Column(
         modifier = modifier.fillMaxSize()
     ) {
@@ -33,6 +35,7 @@ fun CoffeeCategoryScreen(
             CategoryCard(
                 image = R.drawable.third_wave,
                 text = R.string.third_wave,
+                onClick = {  }
             )
 
             Spacer(modifier = Modifier.height(8.dp))

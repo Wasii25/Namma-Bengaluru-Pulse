@@ -42,6 +42,9 @@ fun CategoryCard(
             contentColor = MaterialTheme.colorScheme.onSurface
         ),
         modifier = Modifier
+            .fillMaxWidth()
+            .padding(8.dp)
+            .clickable{ onClick() }
     ) {
         Row(
             verticalAlignment = Alignment.CenterVertically,
