@@ -9,6 +9,7 @@
     <string name="City_image_intro">Silicon Valley of India</string>
 
     <!-- Coffee Shops -->
+    <string name="coffee_shop_category">Coffee Shops</string>
     <string name="third_wave">Third Wave Coffee Roasters</string>
     <string name="third_wave_desc">A modern, indie-style café popular among remote workers and students. Known for its specialty brews, cozy interiors, and calm ambiance — perfect for both focused work and casual chats.</string>
 
@@ -25,6 +26,7 @@
     <string name="blue_tokai_desc">A favorite among the hip crowd, this place roasts its own beans on-site and serves them in a minimalist, modern space. Try their cold brews or pourovers with a fresh bakery treat.</string>
 
     <!-- Restaurants -->
+    <string name="restaurant_category">Restaurants</string>
     <string name="toit">Toit</string>
     <string name="toit_desc">One of Bengaluru’s most iconic brewpubs. A vibrant mix of craft beer, fusion food, and energetic ambiance. Great for weekend evenings and casual celebrations with friends.</string>
 
@@ -41,6 +43,7 @@
     <string name="black_rabbit_desc">Trendy and upbeat, this modern bar serves fusion dishes, craft cocktails, and features live music nights. Perfect for date nights or evening hangouts.</string>
 
     <!-- Parks -->
+    <string name="parks_category">Parks</string>
     <string name="cubbon_park">Cubbon Park</string>
     <string name="cubbon_park_desc">A sprawling green lung in the city’s center. Popular for morning jogs, weekend picnics, and quiet escapes amidst colonial-era architecture and old trees.</string>
 
@@ -57,6 +60,7 @@
     <string name="bannerghatta_desc">A vast park home to a zoo, butterfly enclosure, and thrilling safari rides. Located on the citys outskirts, its ideal for a day trip with family or wildlife enthusiasts.</string>
 
     <!-- Kid-Friendly -->
+    <string name="kid_friendly_category">Kid Friendly</string>
     <string name="bal_bhavan">Jawahar Bal Bhavan</string>
     <string name="bal_bhavan_desc">A dedicated children’s play area inside Cubbon Park with swings, rides, and a miniature toy train. Offers hours of joyful exploration for younger kids.</string>
 
@@ -73,6 +77,7 @@
     <string name="science_museum_desc">Named after Sir M. Visvesvaraya, this interactive museum makes science fun through hands-on exhibits, physics demos, and immersive 3D shows for all ages.</string>
 
     <!-- Shopping -->
+    <string name="shopping_category">Shopping</string>
     <string name="phoenix">Phoenix MarketCity</string>
     <string name="phoenix_desc">An expansive shopping mall in Whitefield with national and international brands, multiplex, food court, and live entertainment events. A complete leisure destination.</string>
 
