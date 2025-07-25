@@ -35,6 +35,7 @@ import com.example.nammabengalurupulse.data.Screen
 import com.example.nammabengalurupulse.ui.components.CategoryCard
 import com.example.nammabengalurupulse.ui.components.CategoryList
 import androidx.navigation.compose.composable
+import com.example.nammabengalurupulse.ui.screen.Categories.CoffeeCategoryScreen
 import com.example.nammabengalurupulse.ui.screen.Categories.CoffeeShopsScreen
 import com.example.nammabengalurupulse.ui.screen.Categories.KidsScreen
 import com.example.nammabengalurupulse.ui.screen.Categories.ParksScreen
@@ -104,7 +105,10 @@ fun CategoryNavHost() {
         }
 
         composable(Screen.CoffeeShops.route) {
-            CoffeeShopsScreen()
+            CoffeeCategoryScreen(
+                navController = navController,
+                categoryTitle = R.string.coffee_shop_category
+            )
         }
 
         composable(Screen.Restaurants.route) {

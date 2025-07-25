@@ -25,7 +25,7 @@ fun CategoryList(
         CategoryCard(
             image = R.drawable.third_wave,
             text = R.string.coffee_shop_category,
-            onClick = { navController.navigate(Screen.CoffeeShops) }
+            onClick = { navController.navigate(Screen.CoffeeShops.route) }
         )
 
         Spacer(modifier = Modifier.height(8.dp))
@@ -33,7 +33,7 @@ fun CategoryList(
         CategoryCard(
             image = R.drawable.truffles,
             text = R.string.restaurant_category,
-            onClick = { navController.navigate(Screen.Restaurants) }
+            onClick = { navController.navigate(Screen.Restaurants.route) }
         )
 
         Spacer(modifier = Modifier.height(8.dp))
@@ -41,7 +41,7 @@ fun CategoryList(
         CategoryCard(
             image = R.drawable.cubbon_park,
             text = R.string.parks_category,
-            onClick = { navController.navigate(Screen.Parks) }
+            onClick = { navController.navigate(Screen.Parks.route) }
         )
 
         Spacer(modifier = Modifier.height(8.dp))
@@ -49,7 +49,7 @@ fun CategoryList(
         CategoryCard(
             image = R.drawable.bal_bhavan,
             text = R.string.kid_friendly_category,
-            onClick = { navController.navigate(Screen.Kids) }
+            onClick = { navController.navigate(Screen.Kids.route) }
         )
 
         Spacer(modifier = Modifier.height(8.dp))
@@ -57,7 +57,7 @@ fun CategoryList(
         CategoryCard(
             image = R.drawable.mantri,
             text = R.string.shopping_category,
-            onClick = { navController.navigate(Screen.Shopping) }
+            onClick = { navController.navigate(Screen.Shopping.route) }
         )
     }
 }
